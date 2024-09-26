@@ -14,3 +14,8 @@ metafile = true
 file = "mods/spark.pw.toml"
 hash = "24ca44f204ce1904fa79e0fab79c101831716b3197a726f71abf6e5d3e621f80"
 metafile = true
+
+[[files]]
+file = "mods/wwoo.pw.toml"
+hash = "3e62e3ed38bf1e9c4ed77f026d99b2143c10976d46273cfd20ad40692383e0f5"
+metafile = true
